@@ -1,0 +1,9 @@
+Q.no : 4) Queue operations for data manipulations
+
+Enqueue(): Insert an element at the last.
+Dequeue(): Remove an element from the first.
+size(): Gives the current size of the queue.
+Front(): Prints the first element without removing.
+is_empty(): checks if the queue is empty.
+is_full(): checks if the queue is full.
+display(): Print all the elements of the queue.
